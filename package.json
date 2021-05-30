@@ -1,0 +1,8 @@
+{
+  "name": "seed",
+  "version": "1.4.0",
+  "main": "index.js",
+  "repository": "https://github.com/gamingcrafts/seed.git",
+  "author": "Santhosh <santhoshmani30@gmail.com>",
+  "license": "MIT"
+}
